@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-19T05:34:24Z",
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63449
+                "stars": 63450
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-04-16T12:24:54Z",
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26796
+                "stars": 26797
               }
             },
             {
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 429651616,
                 "language": "C++",
-                "last_commit": "2026-08-19T09:09:19Z",
+                "last_commit": "2026-08-19T12:01:24Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware_universe",
                 "stars": 1730
@@ -208,7 +208,7 @@
                 "archived": false,
                 "id": 86362856,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T10:51:04Z",
+                "last_commit": "2026-08-19T12:21:15Z",
                 "owner": "borglab",
                 "repo": "gtsam",
                 "stars": 3640
@@ -549,7 +549,7 @@
             "last_commit": "2026-08-18T17:41:00Z",
             "owner": "o3de",
             "repo": "o3de",
-            "stars": 9607
+            "stars": 9608
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6960
+            "stars": 6961
           }
         },
         {
@@ -965,8 +965,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:58:08.832Z",
+    "last_updated": "2026-08-19T12:51:36.888Z",
     "original_repository": "mjyc/awesome-robotics-projects",
+    "original_repository_id": 227416937,
     "original_repository_sha": "9943f0ea0c829dda834c3597128f3137cea205fd",
     "enhanced_repository": "enhansome/enhansome-robotics-projects",
     "enhanced_repository_description": null,
