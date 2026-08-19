@@ -1,282 +1,304 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "boston-dynamics/spot-sdk",
+              "description": "Spot SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234396143,
+                "language": "Python",
+                "last_commit": "2026-08-11T16:40:38Z",
+                "owner": "boston-dynamics",
+                "repo": "spot-sdk",
+                "stars": 2496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "facebookresearch/pyrobot",
+              "description": "PyRobot: An Open Source Robotics Research Platform",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 168630156,
+                "language": "Python",
+                "last_commit": "2026-07-30T21:33:14Z",
+                "owner": "facebookresearch",
+                "repo": "pyrobot",
+                "stars": 2308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "copper-project/copper-rs",
+              "description": "Robot SDK in Rust (deterministic and high performance)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290790298,
+                "language": "Rust",
+                "last_commit": "2026-08-15T16:14:44Z",
+                "owner": "copper-project",
+                "repo": "copper-rs",
+                "stars": 1457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unitreerobotics/unitree_sdk2",
+              "description": "Unitree robot sdk version 2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 695166275,
+                "language": "C++",
+                "last_commit": "2026-08-17T13:23:39Z",
+                "owner": "unitreerobotics",
+                "repo": "unitree_sdk2",
+                "stars": 1296
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "facebookresearch/home-robot",
+              "description": "Mobile manipulation research tools for roboticists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560469540,
+                "language": "Python",
+                "last_commit": "2024-06-08T09:34:05Z",
+                "owner": "facebookresearch",
+                "repo": "home-robot",
+                "stars": 1232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anki Cozmo Python SDK",
+              "description": ", C# SDK, and PyCozmo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70877464,
+                "language": "Python",
+                "last_commit": "2022-11-26T23:31:36Z",
+                "owner": "anki",
+                "repo": "cozmo-python-sdk",
+                "stars": 724
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "robotemi/sdk",
+              "description": "temi SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191618116,
+                "language": "Kotlin",
+                "last_commit": "2026-08-07T02:21:53Z",
+                "owner": "robotemi",
+                "repo": "sdk",
+                "stars": 252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "resibots/minitaur_sdk",
+              "description": "Minitaur SDK extension",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180979116,
+                "language": "C++",
+                "last_commit": "2019-04-12T09:45:12Z",
+                "owner": "resibots",
+                "repo": "minitaur_sdk",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Robots"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "commaai/openpilot",
+              "description": "openpilot is an open source driver assistance system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74627617,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:34:24Z",
+                "owner": "commaai",
+                "repo": "openpilot",
+                "stars": 63449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ApolloAuto/apollo",
+              "description": "An open autonomous driving platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96246170,
+                "language": "C++",
+                "last_commit": "2026-04-16T12:24:54Z",
+                "owner": "ApolloAuto",
+                "repo": "apollo",
+                "stars": 26796
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "autowarefoundation/autoware.universe",
+              "description": "Open-source software for self-driving vehicles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429651616,
+                "language": "C++",
+                "last_commit": "2026-08-19T09:09:19Z",
+                "owner": "autowarefoundation",
+                "repo": "autoware_universe",
+                "stars": 1730
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Autonomous Driving"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openMVG/openMVG",
+              "description": "open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8096326,
+                "language": "C++",
+                "last_commit": "2025-12-17T00:44:42Z",
+                "owner": "openMVG",
+                "repo": "openMVG",
+                "stars": 6538
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "borglab/gtsam",
+              "description": "Georgia Tech Smoothing and Mapping Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86362856,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-19T10:51:04Z",
+                "owner": "borglab",
+                "repo": "gtsam",
+                "stars": 3640
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "facebookresearch/theseus",
+              "description": "A library for differentiable nonlinear optimization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429570359,
+                "language": "Python",
+                "last_commit": "2025-01-16T17:47:06Z",
+                "owner": "facebookresearch",
+                "repo": "theseus",
+                "stars": 2051
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CRISP",
+              "description": "Compliant ROS2 Controllers for Learning-Based Manipulation Policies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227416937,
+                "language": null,
+                "last_commit": "2026-02-13T01:40:21Z",
+                "owner": "mjyc",
+                "repo": "awesome-robotics-projects",
+                "stars": 1730
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "any4lerobot",
+              "description": "A collection of utilities and tools for LeRobot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 935190749,
+                "language": "Python",
+                "last_commit": "2026-08-17T16:31:04Z",
+                "owner": "Tavish9",
+                "repo": "any4lerobot",
+                "stars": 1134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nano-pgo",
+              "description": "For an education purpose, from-scratch, single-file, python-only pose-graph optimization implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 867240346,
+                "language": "Python",
+                "last_commit": "2024-11-06T12:04:28Z",
+                "owner": "gisbi-kim",
+                "repo": "nano-pgo",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KFCore",
+              "description": "A lightweight, high-performance Kalman Filter library in C, C++, and MATLAB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 867272020,
+                "language": "C",
+                "last_commit": "2026-07-29T00:39:22Z",
+                "owner": "jnz",
+                "repo": "KFCore",
+                "stars": 168
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ML & Vision"
+        }
+      ],
       "title": "Library, Framework, SDK"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "boston-dynamics/spot-sdk",
-          "description": "Spot SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T16:40:38Z",
-            "owner": "boston-dynamics",
-            "repo": "spot-sdk",
-            "stars": 2496
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "facebookresearch/pyrobot",
-          "description": "PyRobot: An Open Source Robotics Research Platform",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-07-30T21:33:14Z",
-            "owner": "facebookresearch",
-            "repo": "pyrobot",
-            "stars": 2308
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "copper-project/copper-rs",
-          "description": "Robot SDK in Rust (deterministic and high performance)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-15T16:14:44Z",
-            "owner": "copper-project",
-            "repo": "copper-rs",
-            "stars": 1456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "unitreerobotics/unitree_sdk2",
-          "description": "Unitree robot sdk version 2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T13:23:39Z",
-            "owner": "unitreerobotics",
-            "repo": "unitree_sdk2",
-            "stars": 1295
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "facebookresearch/home-robot",
-          "description": "Mobile manipulation research tools for roboticists",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-08T09:34:05Z",
-            "owner": "facebookresearch",
-            "repo": "home-robot",
-            "stars": 1232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anki Cozmo Python SDK",
-          "description": ", C# SDK, and PyCozmo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-26T23:31:36Z",
-            "owner": "anki",
-            "repo": "cozmo-python-sdk",
-            "stars": 724
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "robotemi/sdk",
-          "description": "temi SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-07T02:21:53Z",
-            "owner": "robotemi",
-            "repo": "sdk",
-            "stars": 252
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "resibots/minitaur_sdk",
-          "description": "Minitaur SDK extension",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-04-12T09:45:12Z",
-            "owner": "resibots",
-            "repo": "minitaur_sdk",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Robots"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "commaai/openpilot",
-          "description": "openpilot is an open source driver assistance system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T09:13:40Z",
-            "owner": "commaai",
-            "repo": "openpilot",
-            "stars": 63442
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ApolloAuto/apollo",
-          "description": "An open autonomous driving platform",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-16T12:24:54Z",
-            "owner": "ApolloAuto",
-            "repo": "apollo",
-            "stars": 26796
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "autowarefoundation/autoware.universe",
-          "description": "Open-source software for self-driving vehicles",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T10:54:27Z",
-            "owner": "autowarefoundation",
-            "repo": "autoware_universe",
-            "stars": 1729
-          }
-        }
-      ],
-      "title": "Autonomous Driving"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "openMVG/openMVG",
-          "description": "open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-12-17T00:44:42Z",
-            "owner": "openMVG",
-            "repo": "openMVG",
-            "stars": 6538
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "borglab/gtsam",
-          "description": "Georgia Tech Smoothing and Mapping Library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T06:34:09Z",
-            "owner": "borglab",
-            "repo": "gtsam",
-            "stars": 3637
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "facebookresearch/theseus",
-          "description": "A library for differentiable nonlinear optimization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-16T17:47:06Z",
-            "owner": "facebookresearch",
-            "repo": "theseus",
-            "stars": 2051
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CRISP",
-          "description": "Compliant ROS2 Controllers for Learning-Based Manipulation Policies",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-02-13T01:40:21Z",
-            "owner": "mjyc",
-            "repo": "awesome-robotics-projects",
-            "stars": 1730
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "any4lerobot",
-          "description": "A collection of utilities and tools for LeRobot",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T16:31:04Z",
-            "owner": "Tavish9",
-            "repo": "any4lerobot",
-            "stars": 1132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nano-pgo",
-          "description": "For an education purpose, from-scratch, single-file, python-only pose-graph optimization implementation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-06T12:04:28Z",
-            "owner": "gisbi-kim",
-            "repo": "nano-pgo",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KFCore",
-          "description": "A lightweight, high-performance Kalman Filter library in C, C++, and MATLAB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-29T00:39:22Z",
-            "owner": "jnz",
-            "repo": "KFCore",
-            "stars": 168
-          }
-        }
-      ],
-      "title": "ML & Vision"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -285,11 +307,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 838528318,
             "language": "Python",
             "last_commit": "2026-03-17T17:50:58Z",
             "owner": "nasa-jpl",
             "repo": "rosa",
-            "stars": 1610
+            "stars": 1611
           }
         },
         {
@@ -299,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345172241,
             "language": "Rust",
             "last_commit": "2026-05-12T14:00:49Z",
             "owner": "carzum",
@@ -313,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444564203,
             "language": "Python",
             "last_commit": "2026-04-07T15:33:51Z",
             "owner": "MetroRobots",
@@ -327,24 +352,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 734119088,
             "language": "Python",
             "last_commit": "2024-01-31T21:38:44Z",
             "owner": "adityapande-1995",
             "repo": "linux_isolate_process",
             "stars": 13
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ROSBoard",
-          "description": "ROS node that runs a web server on your robot.",
-          "children": []
         }
       ],
       "title": "Command Line Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -353,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160963776,
             "language": "JavaScript",
             "last_commit": "2022-12-17T00:27:21Z",
             "owner": "cruise-automation",
@@ -367,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145997648,
             "language": "C++",
             "last_commit": "2026-06-18T15:03:09Z",
             "owner": "fzi-forschungszentrum-informatik",
@@ -381,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1112946196,
             "language": "TypeScript",
             "last_commit": "2026-08-18T04:22:02Z",
             "owner": "OpenLegged",
@@ -395,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 774577185,
             "language": "Python",
             "last_commit": "2024-08-08T16:12:38Z",
             "owner": "WEIRDLabUW",
@@ -409,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73221539,
             "language": "C#",
             "last_commit": "2019-04-23T17:35:53Z",
             "owner": "h2r",
@@ -423,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169364058,
             "language": "JavaScript",
             "last_commit": "2023-01-05T00:46:44Z",
             "owner": "rapyuta-robotics",
@@ -437,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 875611794,
             "language": "C++",
             "last_commit": "2024-10-20T19:56:35Z",
             "owner": "Geekgineer",
@@ -451,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 871920875,
             "language": "C++",
             "last_commit": "2025-05-07T13:46:25Z",
             "owner": "Geekgineer",
@@ -465,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1056819128,
             "language": "Python",
             "last_commit": "2026-08-05T16:22:32Z",
             "owner": "iblnkn",
@@ -479,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 930632092,
             "language": "C++",
             "last_commit": "2026-08-04T06:32:05Z",
             "owner": "PhantomCybernetics",
@@ -493,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1141160841,
             "language": "Python",
             "last_commit": "2026-04-14T13:32:28Z",
             "owner": "markusgrotz",
@@ -513,11 +544,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 354743391,
             "language": "C++",
-            "last_commit": "2026-08-17T22:20:15Z",
+            "last_commit": "2026-08-18T17:41:00Z",
             "owner": "o3de",
             "repo": "o3de",
-            "stars": 9601
+            "stars": 9607
           }
         },
         {
@@ -527,11 +559,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298347380,
             "language": "C#",
             "last_commit": "2024-11-26T12:02:53Z",
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2562
+            "stars": 2561
           }
         },
         {
@@ -541,11 +574,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 625323941,
             "language": "Jupyter Notebook",
             "last_commit": "2025-03-15T12:14:04Z",
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2202
+            "stars": 2208
           }
         },
         {
@@ -555,8 +589,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439439857,
             "language": "Python",
-            "last_commit": "2026-08-18T02:04:10Z",
+            "last_commit": "2026-08-19T00:01:09Z",
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
             "stars": 1640
@@ -569,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400744686,
             "language": "Python",
             "last_commit": "2025-08-15T18:57:56Z",
             "owner": "metadriverse",
@@ -583,11 +619,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776527409,
             "language": "Jupyter Notebook",
             "last_commit": "2025-12-20T13:08:29Z",
             "owner": "simpler-env",
             "repo": "SimplerEnv",
-            "stars": 1140
+            "stars": 1141
           }
         },
         {
@@ -597,11 +634,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212462991,
             "language": "C++",
             "last_commit": "2024-08-19T01:00:35Z",
             "owner": "Field-Robotics-Lab",
             "repo": "dave",
-            "stars": 295
+            "stars": 296
           }
         },
         {
@@ -611,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277895217,
             "language": "C#",
             "last_commit": "2022-05-09T16:49:12Z",
             "owner": "fsstudio-team",
@@ -622,7 +661,7 @@
       "title": "Simulators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -631,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 454539959,
             "language": "Python",
             "last_commit": "2024-04-28T02:28:25Z",
             "owner": "BerkeleyAutomation",
@@ -645,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345037549,
             "language": "Python",
             "last_commit": "2022-03-31T18:48:06Z",
             "owner": "BerkeleyAutomation",
@@ -656,7 +697,7 @@
       "title": "Robotics Tooling Companies"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -665,11 +706,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46938122,
             "language": null,
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6958
+            "stars": 6960
           }
         },
         {
@@ -679,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217333025,
             "language": null,
             "last_commit": "2023-11-20T07:13:29Z",
             "owner": "Ly0n",
@@ -693,11 +736,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56404753,
             "language": "Python",
             "last_commit": "2026-08-06T23:31:04Z",
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3017
+            "stars": 3018
           }
         },
         {
@@ -707,11 +751,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 105514647,
             "language": null,
             "last_commit": "2023-08-18T07:40:50Z",
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2130
+            "stars": 2129
           }
         },
         {
@@ -721,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91040492,
             "language": null,
             "last_commit": "2024-01-10T07:45:21Z",
             "owner": "ahundt",
@@ -735,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190376150,
             "language": null,
             "last_commit": "2026-05-31T20:20:18Z",
             "owner": "msadowski",
@@ -749,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152947551,
             "language": null,
             "last_commit": "2019-02-12T02:34:40Z",
             "owner": "Po-Jen",
@@ -763,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 623920909,
             "language": null,
             "last_commit": "2023-10-24T11:45:03Z",
             "owner": "Airbotics",
@@ -777,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239016982,
             "language": null,
             "last_commit": "2021-11-13T19:00:33Z",
             "owner": "mjyc",
@@ -791,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56439888,
             "language": "Python",
             "last_commit": "2026-05-11T05:00:33Z",
             "owner": "jslee02",
@@ -802,7 +853,7 @@
       "title": "Related Awesome Lists"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -811,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405264082,
             "language": null,
             "last_commit": "2025-10-27T13:01:32Z",
             "owner": "mjyc",
@@ -825,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405264082,
             "language": null,
             "last_commit": "2025-10-27T13:01:32Z",
             "owner": "mjyc",
@@ -839,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239016982,
             "language": null,
             "last_commit": "2021-11-13T19:00:33Z",
             "owner": "mjyc",
@@ -853,6 +907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 422761890,
             "language": null,
             "last_commit": "2021-12-29T17:32:21Z",
             "owner": "mjyc",
@@ -867,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442570115,
             "language": null,
             "last_commit": "2021-12-31T06:29:09Z",
             "owner": "mjyc",
@@ -881,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443470881,
             "language": null,
             "last_commit": "2022-01-01T17:50:53Z",
             "owner": "mjyc",
@@ -895,6 +952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 649571489,
             "language": null,
             "last_commit": "2023-10-31T23:39:45Z",
             "owner": "mjyc",
@@ -904,15 +962,10 @@
         }
       ],
       "title": "Shameless Self-Advertisement"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:58:48.537Z",
+    "last_updated": "2026-08-19T10:58:08.832Z",
     "original_repository": "mjyc/awesome-robotics-projects",
     "original_repository_sha": "9943f0ea0c829dda834c3597128f3137cea205fd",
     "enhanced_repository": "enhansome/enhansome-robotics-projects",
