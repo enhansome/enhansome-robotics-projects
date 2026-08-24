@@ -4,6 +4,207 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "LeRobot",
+          "description": "State-of-the-art AI for real-world robotics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 748713144,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:58:23Z",
+            "owner": "huggingface",
+            "repo": "lerobot",
+            "stars": 26871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JPL Open Source Rover Project",
+          "description": "Open-source 6-wheel rover based on the rovers on Mars",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139205847,
+            "language": "Prolog",
+            "last_commit": "2026-08-13T01:02:20Z",
+            "owner": "nasa-jpl",
+            "repo": "open-source-rover",
+            "stars": 9601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Duck Mini v2",
+          "description": "Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 801580724,
+            "language": "Python",
+            "last_commit": "2026-01-31T10:28:29Z",
+            "owner": "apirrone",
+            "repo": "Open_Duck_Mini",
+            "stars": 3512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stanford Doggo",
+          "description": "Open-source quadruped robot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148583016,
+            "language": null,
+            "last_commit": "2024-07-08T02:08:11Z",
+            "owner": "Nate711",
+            "repo": "StanfordDoggoProject",
+            "stars": 2548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHAMP",
+          "description": "𓃡 CHAMP Quadruped Controller ROS Package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 186157988,
+            "language": "C++",
+            "last_commit": "2024-07-04T00:40:17Z",
+            "owner": "chvmp",
+            "repo": "champ",
+            "stars": 2303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BCN3D",
+          "description": "Open Source 3D Printed Robotic Arm for educational purposes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64388724,
+            "language": "C++",
+            "last_commit": "2022-03-01T11:37:05Z",
+            "owner": "BCN3D",
+            "repo": "BCN3D-Moveo",
+            "stars": 1939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BetaBot",
+          "description": "3d printable Robot arm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42739834,
+            "language": "HTML",
+            "last_commit": "2021-07-22T13:43:20Z",
+            "owner": "4ndreas",
+            "repo": "BetaBots-Robot-Arm-Project",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "K-Bot",
+          "description": "The K-Scale Robot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961164101,
+            "language": null,
+            "last_commit": "2025-11-07T18:49:54Z",
+            "owner": "kscalelabs",
+            "repo": "kbot",
+            "stars": 385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BiDexHand",
+          "description": "BiDexHand: Open-Source 16-DoF Biomimetic Dexterous Hand",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 931133705,
+            "language": "Python",
+            "last_commit": "2025-11-23T21:34:01Z",
+            "owner": "wengmister",
+            "repo": "BiDexHand",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robotics Middleware Framework",
+          "description": "Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 237959914,
+            "language": "C++",
+            "last_commit": "2021-07-22T07:14:57Z",
+            "owner": "osrf",
+            "repo": "rmf_demos",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maker's Pet",
+          "description": "Extremely low-cost open-source 3D-printed Arduino/ROS2 home pet robot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 688694060,
+            "language": "Lua",
+            "last_commit": "2025-10-04T21:51:01Z",
+            "owner": "makerspet",
+            "repo": "makerspet_loki",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboPrime",
+          "description": "Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95972758,
+            "language": "Arduino",
+            "last_commit": "2017-10-19T16:04:12Z",
+            "owner": "simonepri",
+            "repo": "roboprime",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPodcar",
+          "description": "Open source hardware design and software for OpenPodcar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 490444965,
+            "language": null,
+            "last_commit": "2022-05-09T21:05:29Z",
+            "owner": "OpenPodcar",
+            "repo": "OpenPodcar",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -44,7 +245,7 @@
                 "archived": false,
                 "id": 290790298,
                 "language": "Rust",
-                "last_commit": "2026-08-24T11:03:43Z",
+                "last_commit": "2026-08-24T14:04:16Z",
                 "owner": "copper-project",
                 "repo": "copper-rs",
                 "stars": 1462
@@ -159,7 +360,7 @@
                 "last_commit": "2026-04-16T12:24:54Z",
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26802
+                "stars": 26803
               }
             },
             {
@@ -171,7 +372,7 @@
                 "archived": false,
                 "id": 429651616,
                 "language": "C++",
-                "last_commit": "2026-08-24T07:04:17Z",
+                "last_commit": "2026-08-24T11:22:14Z",
                 "owner": "autowarefoundation",
                 "repo": "autoware_universe",
                 "stars": 1736
@@ -211,7 +412,7 @@
                 "last_commit": "2026-08-24T04:18:41Z",
                 "owner": "borglab",
                 "repo": "gtsam",
-                "stars": 3648
+                "stars": 3649
               }
             },
             {
@@ -498,7 +699,7 @@
             "last_commit": "2026-08-05T16:22:32Z",
             "owner": "iblnkn",
             "repo": "rosetta",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -549,7 +750,7 @@
             "last_commit": "2026-08-22T17:38:39Z",
             "owner": "o3de",
             "repo": "o3de",
-            "stars": 9625
+            "stars": 9626
           }
         },
         {
@@ -579,7 +780,7 @@
             "last_commit": "2025-03-15T12:14:04Z",
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2228
+            "stars": 2230
           }
         },
         {
@@ -594,7 +795,7 @@
             "last_commit": "2026-08-24T06:21:47Z",
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1649
+            "stars": 1650
           }
         },
         {
@@ -965,7 +1166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:04:14.355Z",
+    "last_updated": "2026-08-24T14:08:43.425Z",
     "original_repository": "mjyc/awesome-robotics-projects",
     "original_repository_id": 227416937,
     "original_repository_sha": "9943f0ea0c829dda834c3597128f3137cea205fd",
