@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "homepage": "https://huggingface.co/docs/lerobot",
             "id": 748713144,
             "language": "Python",
-            "last_commit": "2026-08-28T19:16:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:38:02Z",
+            "open_issues": 833,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 27021
+            "stars": 27026,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -26,12 +31,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+            "homepage": "https://open-source-rover.readthedocs.io",
             "id": 139205847,
             "language": "Prolog",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T01:02:20Z",
+            "open_issues": 17,
             "owner": "nasa-jpl",
             "repo": "open-source-rover",
-            "stars": 9613
+            "stars": 9613,
+            "topics": [
+              "diy",
+              "hardware",
+              "mars",
+              "mars-rover",
+              "open-source",
+              "robot",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe",
+            "homepage": null,
             "id": 801580724,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-31T10:28:29Z",
+            "open_issues": 24,
             "owner": "apirrone",
             "repo": "Open_Duck_Mini",
-            "stars": 3575
+            "stars": 3586,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -58,12 +81,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stanford Doggo is an open source quadruped robot that jumps, flips, and trots!",
+            "homepage": null,
             "id": 148583016,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-07-08T02:08:11Z",
+            "open_issues": 11,
             "owner": "Nate711",
             "repo": "StanfordDoggoProject",
-            "stars": 2553
+            "stars": 2553,
+            "topics": [
+              "cad",
+              "direct-drive",
+              "legged-robotics",
+              "quadruped",
+              "quasi-direct",
+              "robot",
+              "stanford-doggo"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -74,12 +110,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MIT Cheetah I Implementation",
+            "homepage": null,
             "id": 186157988,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-04T00:40:17Z",
+            "open_issues": 54,
             "owner": "chvmp",
             "repo": "champ",
-            "stars": 2307
+            "stars": 2307,
+            "topics": [
+              "gazebo",
+              "gazebo-ros",
+              "gazebo-simulator",
+              "legged-robotics",
+              "legged-robots",
+              "quadruped",
+              "quadruped-robot-gaits",
+              "quadruped-simulation",
+              "robotics",
+              "ros"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -90,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source 3D Printed Robotic Arm for educational purposes",
+            "homepage": null,
             "id": 64388724,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-03-01T11:37:05Z",
+            "open_issues": 47,
             "owner": "BCN3D",
             "repo": "BCN3D-Moveo",
-            "stars": 1942
+            "stars": 1943,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -106,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3d printable Robot arm ",
+            "homepage": null,
             "id": 42739834,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2021-07-22T13:43:20Z",
+            "open_issues": 8,
             "owner": "4ndreas",
             "repo": "BetaBots-Robot-Arm-Project",
-            "stars": 388
+            "stars": 388,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -122,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The K-Scale Robot",
+            "homepage": null,
             "id": 961164101,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-11-07T18:49:54Z",
+            "open_issues": 1,
             "owner": "kscalelabs",
             "repo": "kbot",
-            "stars": 386
+            "stars": 386,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -138,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source release of biomimetic dexterous robotic hand, BiDexHand",
+            "homepage": null,
             "id": 931133705,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-23T21:34:01Z",
+            "open_issues": 1,
             "owner": "wengmister",
             "repo": "BiDexHand",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -154,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Demos to showcase the capabilities of RMF",
+            "homepage": null,
             "id": 237959914,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-22T07:14:57Z",
+            "open_issues": 2,
             "owner": "osrf",
             "repo": "rmf_demos",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -170,12 +247,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maker's Pet Loki - a 200mm 3D-printed DIY pet robot compatible with Kaia.ai robotics software platform ",
+            "homepage": "https://makerspet.com",
             "id": 688694060,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-04T21:51:01Z",
+            "open_issues": 0,
             "owner": "makerspet",
             "repo": "makerspet_loki",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "3d-printing",
+              "3mf",
+              "arduino",
+              "diy",
+              "esp32",
+              "esp32-arduino",
+              "fusion-360",
+              "kaia-ai",
+              "kaiaai-robot",
+              "makers",
+              "open-source",
+              "pet-robots",
+              "pets",
+              "remake-ai",
+              "robot",
+              "robotics",
+              "ros2",
+              "stem",
+              "stl-files"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -186,12 +288,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip",
+            "homepage": null,
             "id": 95972758,
             "language": "Arduino",
+            "license": "GPL-3.0",
             "last_commit": "2017-10-19T16:04:12Z",
+            "open_issues": 0,
             "owner": "simonepri",
             "repo": "roboprime",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "3d-printing",
+              "arduino",
+              "atmega328p",
+              "electronics",
+              "firmware",
+              "humanoid",
+              "humanoid-robot",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -202,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source hardware design and software for OpenPodcar.",
+            "homepage": null,
             "id": 490444965,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2022-05-09T21:05:29Z",
+            "open_issues": 0,
             "owner": "OpenPodcar",
             "repo": "OpenPodcar",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         }
@@ -226,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spot SDK repo ",
+                "homepage": null,
                 "id": 234396143,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-11T16:40:38Z",
+                "open_issues": 106,
                 "owner": "boston-dynamics",
                 "repo": "spot-sdk",
-                "stars": 2500
+                "stars": 2500,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -242,12 +368,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PyRobot: An Open Source Robotics Research Platform",
+                "homepage": "https://pyrobot.org",
                 "id": 168630156,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-30T21:33:14Z",
+                "open_issues": 55,
                 "owner": "facebookresearch",
                 "repo": "pyrobot",
-                "stars": 2307
+                "stars": 2307,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -258,12 +389,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.",
+                "homepage": "https://discord.gg/VkCG7Sb9Kw",
                 "id": 290790298,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T07:44:49Z",
+                "open_issues": 25,
                 "owner": "copper-project",
                 "repo": "copper-rs",
-                "stars": 1474
+                "stars": 1476,
+                "topics": [
+                  "operating-system",
+                  "physical-ai",
+                  "robotics",
+                  "ros",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -274,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unitree robot sdk version 2. https://support.unitree.com/home/zh/developer",
+                "homepage": null,
                 "id": 695166275,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-20T09:52:47Z",
+                "open_issues": 14,
                 "owner": "unitreerobotics",
                 "repo": "unitree_sdk2",
-                "stars": 1328
+                "stars": 1328,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -290,12 +437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile manipulation research tools for roboticists",
+                "homepage": null,
                 "id": 560469540,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-08T09:34:05Z",
+                "open_issues": 54,
                 "owner": "facebookresearch",
                 "repo": "home-robot",
-                "stars": 1235
+                "stars": 1235,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -306,12 +458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anki Cozmo Python SDK",
+                "homepage": null,
                 "id": 70877464,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-26T23:31:36Z",
+                "open_issues": 15,
                 "owner": "anki",
                 "repo": "cozmo-python-sdk",
-                "stars": 725
+                "stars": 725,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -322,12 +479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "temi is an unparalleled robotic platform introducing a new dimension of development - movement. Using temi’s SDK, developers can create new functionalities and introduce new use cases via temi’s Android tablet. temi’s movement and navigation capabilities run off of it's Linux computer and uses a set of 16 sensors including a Lidar, depth cameras, driving cameras, and microphones. We encourage our developer community to suggest and request expanded functionality within the SDK and we will adhere to your needs. We want to enable you to create skills like never seen before!  We will be constantly improving the SDK and its documentation. Please feel free to reach out to us with any questions or thoughts at developers@robotemi.com",
+                "homepage": "https://www.robotemi.com/",
                 "id": 191618116,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2026-08-28T09:50:11Z",
+                "open_issues": 144,
                 "owner": "robotemi",
                 "repo": "sdk",
-                "stars": 252
+                "stars": 252,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -338,12 +500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "extension of the official Ghost Robotics SDK",
+                "homepage": null,
                 "id": 180979116,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-12T09:45:12Z",
+                "open_issues": 0,
                 "owner": "resibots",
                 "repo": "minitaur_sdk",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             }
@@ -361,12 +528,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+                "homepage": "https://comma.ai/openpilot",
                 "id": 74627617,
                 "language": "Python",
-                "last_commit": "2026-08-28T20:38:09Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:09:03Z",
+                "open_issues": 130,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63527
+                "stars": 63527,
+                "topics": [
+                  "advanced-driver-assistance-systems",
+                  "driver-assistance-systems",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -377,12 +553,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open autonomous driving platform",
+                "homepage": null,
                 "id": 96246170,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-16T12:24:54Z",
+                "open_issues": 1045,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26807
+                "stars": 26807,
+                "topics": [
+                  "apollo",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "autonomy",
+                  "self-driving-car"
+                ]
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -393,12 +580,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://autowarefoundation.github.io/autoware_universe/",
                 "id": 429651616,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:55:28Z",
+                "open_issues": 485,
                 "owner": "autowarefoundation",
                 "repo": "autoware_universe",
-                "stars": 1743
+                "stars": 1743,
+                "topics": [
+                  "3d-map",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "autoware",
+                  "calibration",
+                  "planner",
+                  "ros",
+                  "ros2",
+                  "self-driving-car"
+                ]
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             }
@@ -416,12 +618,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.",
+                "homepage": null,
                 "id": 8096326,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2025-12-17T00:44:42Z",
+                "open_issues": 312,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6544
+                "stars": 6544,
+                "topics": [
+                  "3d-reconstruction",
+                  "computer-vision",
+                  "drone",
+                  "geometry",
+                  "multiple-view-geometry",
+                  "openmvg",
+                  "photogrammetry",
+                  "sfm",
+                  "structure-from-motion"
+                ]
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -432,12 +649,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.",
+                "homepage": "https://borglab.github.io/gtsam/",
                 "id": 86362856,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:29:33Z",
+                "open_issues": 3,
                 "owner": "borglab",
                 "repo": "gtsam",
-                "stars": 3658
+                "stars": 3658,
+                "topics": [
+                  "estimation",
+                  "perception",
+                  "robotics",
+                  "sensorfusion"
+                ]
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -448,12 +675,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for differentiable nonlinear optimization",
+                "homepage": null,
                 "id": 429570359,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-16T17:47:06Z",
+                "open_issues": 83,
                 "owner": "facebookresearch",
                 "repo": "theseus",
-                "stars": 2055
+                "stars": 2055,
+                "topics": [
+                  "bilevel-optimization",
+                  "computer-vision",
+                  "deep-learning",
+                  "differentiable-optimization",
+                  "embodied-ai",
+                  "gauss-newton",
+                  "implicit-differentiation",
+                  "levenberg-marquardt",
+                  "nonlinear-least-squares",
+                  "pytorch",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -464,12 +708,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of open-source, affordable, less-known, or visionary robotics projects.",
+                "homepage": null,
                 "id": 227416937,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-02-13T01:40:21Z",
+                "open_issues": 7,
                 "owner": "mjyc",
                 "repo": "awesome-robotics-projects",
-                "stars": 1740
+                "stars": 1740,
+                "topics": [
+                  "awesome",
+                  "projects",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -480,12 +733,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎁 A collection of utilities for LeRobot.",
+                "homepage": null,
                 "id": 935190749,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T16:31:04Z",
+                "open_issues": 4,
                 "owner": "Tavish9",
                 "repo": "any4lerobot",
-                "stars": 1142
+                "stars": 1142,
+                "topics": [
+                  "agibot",
+                  "awesome",
+                  "lerobot",
+                  "libero",
+                  "openx",
+                  "rlds",
+                  "robocasa",
+                  "robomind",
+                  "robotics",
+                  "utils"
+                ]
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -496,12 +765,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "For an education purpose, from-scratch, single-file, python-only pose-graph optimization implementation",
+                "homepage": null,
                 "id": 867240346,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-06T12:04:28Z",
+                "open_issues": 2,
                 "owner": "gisbi-kim",
                 "repo": "nano-pgo",
-                "stars": 299
+                "stars": 299,
+                "topics": [
+                  "cholmod",
+                  "chordal-distance",
+                  "codegen",
+                  "gauss-newton",
+                  "gtsam",
+                  "initialization",
+                  "jacobian",
+                  "pgo",
+                  "pose-graph-optimization",
+                  "rotation",
+                  "slam",
+                  "symforce"
+                ]
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             },
@@ -512,12 +799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, high-performance Kalman Filter library in C, C++, and MATLAB, offering superior numerical stability and efficiency with minimal dependencies.",
+                "homepage": null,
                 "id": 867272020,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-29T00:39:22Z",
+                "open_issues": 0,
                 "owner": "jnz",
                 "repo": "KFCore",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
             }
@@ -539,12 +831,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.",
+            "homepage": "https://github.com/nasa-jpl/rosa/wiki",
             "id": 838528318,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-17T17:50:58Z",
+            "open_issues": 5,
             "owner": "nasa-jpl",
             "repo": "rosa",
-            "stars": 1619
+            "stars": 1619,
+            "topics": [
+              "agents",
+              "ai",
+              "developer-tools",
+              "jpl",
+              "llm",
+              "nasa",
+              "robotics",
+              "ros",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -555,12 +862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS visualisation on the terminal",
+            "homepage": null,
             "id": 345172241,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-12T14:00:49Z",
+            "open_issues": 13,
             "owner": "carzum",
             "repo": "termviz",
-            "stars": 413
+            "stars": 413,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -571,12 +883,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unifying the ROS command line tools",
+            "homepage": null,
             "id": 444564203,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-07T15:33:51Z",
+            "open_issues": 6,
             "owner": "MetroRobots",
             "repo": "ros_command",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -587,12 +904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Isolates any given process using the unshare system call. Suited for ROS, though can work for any process.",
+            "homepage": null,
             "id": 734119088,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-31T21:38:44Z",
+            "open_issues": 0,
             "owner": "adityapande-1995",
             "repo": "linux_isolate_process",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         }
@@ -609,12 +931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "web-based visualization libraries",
+            "homepage": "https://webviz.io/",
             "id": 160963776,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-17T00:27:21Z",
+            "open_issues": 134,
             "owner": "cruise-automation",
             "repo": "webviz",
-            "stars": 2331
+            "stars": 2331,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -625,12 +952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Map handling framework for automated driving",
+            "homepage": null,
             "id": 145997648,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-18T15:03:09Z",
+            "open_issues": 19,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "Lanelet2",
-            "stars": 959
+            "stars": 959,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -641,12 +973,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "URDF-Studio is a web-based visual URDF robot modeler with 3D workspace, structured skeleton/detail/hardware workflows, motor library integration, MuJoCo export, and AI assistance.",
+            "homepage": "https://urdf.enkeebot.com/",
             "id": 1112946196,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:46:43Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:33:34Z",
+            "open_issues": 1,
             "owner": "OpenLegged",
             "repo": "URDF-Studio",
-            "stars": 466
+            "stars": 466,
+            "topics": [
+              "robot",
+              "robotics",
+              "urdf",
+              "urdf-design"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -657,12 +999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code release for URDFormer",
+            "homepage": null,
             "id": 774577185,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-08T16:12:38Z",
+            "open_issues": 7,
             "owner": "WEIRDLabUW",
             "repo": "urdformer",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -673,12 +1020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect a ROS-enabled robot to Unity",
+            "homepage": null,
             "id": 73221539,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2019-04-23T17:35:53Z",
+            "open_issues": 7,
             "owner": "h2r",
             "repo": "ros_reality",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -689,12 +1041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Realtime robot data visualization in the browser",
+            "homepage": "https://rapyuta-robotics.github.io/zethus/",
             "id": 169364058,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-05T00:46:44Z",
+            "open_issues": 53,
             "owner": "rapyuta-robotics",
             "repo": "zethus",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -705,12 +1062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudPeek is a lightweight, cross-platform, single-header C++ point cloud viewer. It’s designed for simplicity and efficiency, requiring no heavy libraries like PCL or Open3D. Ideal for visualizing and interacting with 3D data from LiDAR, photogrammetry, or other datasets, CloudPeek delivers powerful, real-time exploration in a minimalistic package",
+            "homepage": null,
             "id": 875611794,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-10-20T19:56:35Z",
+            "open_issues": 0,
             "owner": "Geekgineer",
             "repo": "CloudPeek",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -721,12 +1083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS2 Bag Exporter is a versatile ROS 2  c++ package designed to export ROS 2 bag files (rosbag2) into various formats, including images, point cloud data (PCD) files, IMU data, and GPS data. This tool facilitates the extraction and conversion of data from bag files for analysis, visualization, and processing outside the ROS ecosystem.",
+            "homepage": null,
             "id": 871920875,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-05-07T13:46:25Z",
+            "open_issues": 1,
             "owner": "Geekgineer",
             "repo": "ros2_bag_exporter",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -737,12 +1104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1056819128,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T16:22:32Z",
+            "open_issues": 3,
             "owner": "iblnkn",
             "repo": "rosetta",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -753,12 +1125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast WebRTC + Socket.io ROS2 Bridge for real-time data and video streaming, teleoperation, HRI, and remote robot monitoring",
+            "homepage": null,
             "id": 930632092,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-04T06:32:05Z",
+            "open_issues": 8,
             "owner": "PhantomCybernetics",
             "repo": "phntm_bridge_client",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -769,12 +1146,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, interactive scene editor for MuJoCo 3.x. Create or edit scenes in your browser to place shapes, import meshes, add robots, and edit elements interactively.",
+            "homepage": null,
             "id": 1141160841,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-14T13:32:28Z",
+            "open_issues": 0,
             "owner": "markusgrotz",
             "repo": "mujoco-scene-editor",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "mujoco",
+              "robotics",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         }
@@ -791,12 +1177,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",
+            "homepage": "https://o3de.org",
             "id": 354743391,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:43:12Z",
+            "open_issues": 3487,
             "owner": "o3de",
             "repo": "o3de",
-            "stars": 9637
+            "stars": 9637,
+            "topics": [
+              "3d-graphics",
+              "3d-graphics-engine",
+              "animation",
+              "game-development",
+              "game-engine",
+              "gamedev"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -807,12 +1205,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.",
+            "homepage": null,
             "id": 298347380,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-26T12:02:53Z",
+            "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2568
+            "stars": 2568,
+            "topics": [
+              "autonomous-robots",
+              "autonomy",
+              "manipulation",
+              "motion-planning",
+              "physics-3d",
+              "physics-simulation",
+              "planning",
+              "robot",
+              "robot-manipulator",
+              "robot-simulation",
+              "robotics-control",
+              "robotics-development",
+              "robotics-simulation",
+              "ros",
+              "simulation",
+              "trajectory-generation",
+              "tutorials",
+              "unity",
+              "unity-robotics",
+              "urdf"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -823,12 +1247,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmarking Knowledge Transfer in Lifelong Robot Learning",
+            "homepage": null,
             "id": 625323941,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-03-15T12:14:04Z",
+            "open_issues": 97,
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2248
+            "stars": 2248,
+            "topics": [
+              "benchmark",
+              "imitation-learning",
+              "lifelong-learning",
+              "manipulation",
+              "multitask-learning",
+              "robot-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -839,12 +1275,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx",
+            "homepage": "https://behavior.stanford.edu",
             "id": 439439857,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-28T18:33:12Z",
+            "open_issues": 308,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1667
+            "stars": 1668,
+            "topics": [
+              "benchmark",
+              "embodied-ai",
+              "robotics",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -855,12 +1301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MetaDrive: Lightweight driving simulator for everyone",
+            "homepage": "https://metadriverse.github.io/metadrive/",
             "id": 400744686,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-15T18:57:56Z",
+            "open_issues": 102,
             "owner": "metadriverse",
             "repo": "metadrive",
-            "stars": 1235
+            "stars": 1235,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -871,12 +1322,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluating and reproducing real-world robot manipulation policies (e.g., RT-1, RT-1-X, Octo) in simulation under common setups (e.g., Google Robot, WidowX+Bridge) (CoRL 2024)",
+            "homepage": "https://simpler-env.github.io/",
             "id": 776527409,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-12-20T13:08:29Z",
+            "open_issues": 33,
             "owner": "simpler-env",
             "repo": "SimplerEnv",
-            "stars": 1150
+            "stars": 1150,
+            "topics": [
+              "computer-vision",
+              "embodied-ai",
+              "real2sim",
+              "reinforcement-learning",
+              "robot-learning",
+              "robot-manipulation",
+              "robotics",
+              "robotics-benchmark",
+              "robotics-simulation"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -887,12 +1353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project DAVE",
+            "homepage": null,
             "id": 212462991,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-19T01:00:35Z",
+            "open_issues": 36,
             "owner": "Field-Robotics-Lab",
             "repo": "dave",
-            "stars": 297
+            "stars": 297,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -903,12 +1374,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robotic simulation in Unity with ROS integration.",
+            "homepage": "https://roboticsimulationservices.com/",
             "id": 277895217,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-05-09T16:49:12Z",
+            "open_issues": 15,
             "owner": "fsstudio-team",
             "repo": "ZeroSimROSUnity",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "2d-lidar",
+              "3d",
+              "gazebo",
+              "image-segmentation",
+              "laserscan",
+              "lidar",
+              "machine-learning",
+              "mobile-robot-navigation",
+              "mobile-robots",
+              "reinforcement-learning",
+              "reinforcement-learning-environments",
+              "robot-operating-system",
+              "robotic-arms",
+              "robotics",
+              "ros",
+              "sensors",
+              "simulation",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         }
@@ -925,12 +1420,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2",
+            "homepage": "https://berkeleyautomation.github.io/FogROS2",
             "id": 454539959,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-28T02:28:25Z",
+            "open_issues": 25,
             "owner": "BerkeleyAutomation",
             "repo": "FogROS2",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -941,12 +1443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Please see FogROS 2, which is under active development and part of ROS 2.  FogROS v1 (this repo) is deprecated.",
+            "homepage": null,
             "id": 345037549,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-31T18:48:06Z",
+            "open_issues": 1,
             "owner": "BerkeleyAutomation",
             "repo": "FogROS",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         }
@@ -963,12 +1470,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome Robotics resources",
+            "homepage": null,
             "id": 46938122,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-09-22T20:24:10Z",
+            "open_issues": 38,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6986
+            "stars": 6986,
+            "topics": [
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -979,12 +1493,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.",
+            "homepage": null,
             "id": 217333025,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-11-20T07:13:29Z",
+            "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3885
+            "stars": 3885,
+            "topics": [
+              "aerospace",
+              "artificial-intelligence",
+              "automotive",
+              "autonomous-driving",
+              "awesome",
+              "awesome-list",
+              "cplusplus",
+              "cpp",
+              "lidar",
+              "machine-learning",
+              "mapping",
+              "point-cloud",
+              "python",
+              "robot",
+              "robotic",
+              "robotics",
+              "ros",
+              "ros2",
+              "self-driving-car",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -995,12 +1535,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of robotics libraries and software",
+            "homepage": "http://jslee02.github.io/awesome-robotics-libraries/",
             "id": 56404753,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T20:20:58Z",
+            "open_issues": 17,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3027
+            "stars": 3027,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "machine-learning",
+              "motion-planning",
+              "multibody-dynamics",
+              "optimization",
+              "robotics",
+              "robotics-libraries",
+              "robotics-library",
+              "robotics-simulation",
+              "simulation",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1011,12 +1569,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Robot Operating System Version 2.0 is awesome!",
+            "homepage": "https://fkromer.github.io/awesome-ros2",
             "id": 105514647,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-08-18T07:40:50Z",
+            "open_issues": 0,
             "owner": "fkromer",
             "repo": "awesome-ros2",
-            "stars": 2133
+            "stars": 2133,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1027,12 +1594,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome links and software libraries that are useful for robots.",
+            "homepage": null,
             "id": 91040492,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-10T07:45:21Z",
+            "open_issues": 8,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1480
+            "stars": 1480,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "datasets",
+              "deep-learning",
+              "image-segmentation",
+              "list",
+              "lists",
+              "machine-learning",
+              "optimization",
+              "optimization-algorithms",
+              "physics",
+              "planning-algorithms",
+              "point-cloud",
+              "reinforcement-learning",
+              "robot",
+              "robotics",
+              "ros",
+              "sensors",
+              "simulation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1043,12 +1636,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of projects that were or will be featured in Weekly Robotics newsletter",
+            "homepage": "https://weeklyrobotics.com/",
             "id": 190376150,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-31T20:20:18Z",
+            "open_issues": 5,
             "owner": "msadowski",
             "repo": "awesome-weekly-robotics",
-            "stars": 1064
+            "stars": 1064,
+            "topics": [
+              "3d-printing",
+              "automation",
+              "awesome",
+              "awesome-list",
+              "diy",
+              "hardware",
+              "robot-arms",
+              "robot-operating-system",
+              "robotics",
+              "robots",
+              "ros",
+              "rovers",
+              "weekly-robotics"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1059,12 +1671,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome human-robot interaction libraries and resources",
+            "homepage": null,
             "id": 152947551,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-02-12T02:34:40Z",
+            "open_issues": 0,
             "owner": "Po-Jen",
             "repo": "awesome-human-robot-interaction",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "human-robot-interaction",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1075,12 +1695,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources, tutorials and tools for cloud robotics.",
+            "homepage": null,
             "id": 623920909,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-24T11:45:03Z",
+            "open_issues": 2,
             "owner": "Airbotics",
             "repo": "awesome-cloud-robotics",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "cloud-robotics",
+              "fleet-management",
+              "robo-ops",
+              "robotics",
+              "ros",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1091,12 +1723,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of publically available human-robot interaction datasets",
+            "homepage": null,
             "id": 239016982,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2021-11-13T19:00:33Z",
+            "open_issues": 0,
             "owner": "mjyc",
             "repo": "awesome-hri-datasets",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "dataset",
+              "hri-datasets",
+              "human-robot-interactions",
+              "human-simulators"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1107,12 +1749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of awesome projects",
+            "homepage": null,
             "id": 56439888,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-11T05:00:33Z",
+            "open_issues": 0,
             "owner": "jslee02",
             "repo": "awesome-projects",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         }
@@ -1129,12 +1776,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stuff I read to learn about robotics system design and more.",
+            "homepage": null,
             "id": 405264082,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-10-27T13:01:32Z",
+            "open_issues": 0,
             "owner": "mjyc",
             "repo": "awesome-robotics-system-design",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "awesome",
+              "interview",
+              "robotics",
+              "system-design"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1145,12 +1802,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stuff I read to learn about robotics system design and more.",
+            "homepage": null,
             "id": 405264082,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-10-27T13:01:32Z",
+            "open_issues": 0,
             "owner": "mjyc",
             "repo": "awesome-robotics-system-design",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "awesome",
+              "interview",
+              "robotics",
+              "system-design"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1161,12 +1828,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of publically available human-robot interaction datasets",
+            "homepage": null,
             "id": 239016982,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2021-11-13T19:00:33Z",
+            "open_issues": 0,
             "owner": "mjyc",
             "repo": "awesome-hri-datasets",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "dataset",
+              "hri-datasets",
+              "human-robot-interactions",
+              "human-simulators"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1177,12 +1854,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of my favorite end-user programming, crowdsourcing, programming languauges links",
+            "homepage": null,
             "id": 422761890,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2021-12-29T17:32:21Z",
+            "open_issues": 0,
             "owner": "mjyc",
             "repo": "awesome-end-user-programming",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "awesome",
+              "end-user-programming",
+              "lowcode",
+              "nocode"
+            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1193,12 +1880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 442570115,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2021-12-31T06:29:09Z",
+            "open_issues": 0,
             "owner": "mjyc",
             "repo": "awesome-behavioral-change",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1209,12 +1901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 443470881,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-01-01T17:50:53Z",
+            "open_issues": 0,
             "owner": "mjyc",
             "repo": "awesome-tech-education",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -1225,12 +1922,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 649571489,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-31T23:39:45Z",
+            "open_issues": 0,
             "owner": "mjyc",
             "repo": "awesome-robot-devenvs",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         }
@@ -1239,15 +1941,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:13:32.871Z",
+    "last_updated": "2026-08-29T04:27:47.699Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of open-source, affordable, less-known, or visionary robotics projects.",
+      "homepage": null,
       "id": 227416937,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-02-13T01:40:21Z",
+      "open_issues": 7,
       "owner": "mjyc",
       "repo": "awesome-robotics-projects",
-      "stars": 1740
+      "stars": 1740,
+      "topics": [
+        "awesome",
+        "projects",
+        "robotics"
+      ]
     },
     "original_repository_sha": "9943f0ea0c829dda834c3597128f3137cea205fd",
     "enhanced_repository": "enhansome/enhansome-robotics-projects",
