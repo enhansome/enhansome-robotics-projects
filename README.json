@@ -19,7 +19,7 @@
             "open_issues": 833,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 27026,
+            "stars": 27039,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -69,7 +69,7 @@
             "open_issues": 24,
             "owner": "apirrone",
             "repo": "Open_Duck_Mini",
-            "stars": 3586,
+            "stars": 3606,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -151,7 +151,7 @@
             "open_issues": 47,
             "owner": "BCN3D",
             "repo": "BCN3D-Moveo",
-            "stars": 1943,
+            "stars": 1944,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -533,11 +533,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:09:03Z",
-                "open_issues": 130,
+                "last_commit": "2026-08-29T09:06:38Z",
+                "open_issues": 134,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 63527,
+                "stars": 63529,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -562,7 +562,7 @@
                 "open_issues": 1045,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26807,
+                "stars": 26809,
                 "topics": [
                   "apollo",
                   "autonomous-driving",
@@ -585,7 +585,7 @@
                 "id": 429651616,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T11:55:28Z",
+                "last_commit": "2026-08-29T05:02:21Z",
                 "open_issues": 485,
                 "owner": "autowarefoundation",
                 "repo": "autoware_universe",
@@ -627,7 +627,7 @@
                 "open_issues": 312,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6544,
+                "stars": 6545,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -655,10 +655,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:29:33Z",
-                "open_issues": 3,
+                "open_issues": 6,
                 "owner": "borglab",
                 "repo": "gtsam",
-                "stars": 3658,
+                "stars": 3659,
                 "topics": [
                   "estimation",
                   "perception",
@@ -717,7 +717,7 @@
                 "open_issues": 7,
                 "owner": "mjyc",
                 "repo": "awesome-robotics-projects",
-                "stars": 1740,
+                "stars": 1741,
                 "topics": [
                   "awesome",
                   "projects",
@@ -1186,7 +1186,7 @@
             "open_issues": 3487,
             "owner": "o3de",
             "repo": "o3de",
-            "stars": 9637,
+            "stars": 9640,
             "topics": [
               "3d-graphics",
               "3d-graphics-engine",
@@ -1256,7 +1256,7 @@
             "open_issues": 97,
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2248,
+            "stars": 2250,
             "topics": [
               "benchmark",
               "imitation-learning",
@@ -1284,7 +1284,7 @@
             "open_issues": 308,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -1310,7 +1310,7 @@
             "open_issues": 102,
             "owner": "metadriverse",
             "repo": "metadrive",
-            "stars": 1235,
+            "stars": 1236,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -1479,7 +1479,7 @@
             "open_issues": 38,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6986,
+            "stars": 6989,
             "topics": [
               "robotics"
             ]
@@ -1502,7 +1502,7 @@
             "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3885,
+            "stars": 3886,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -1941,7 +1941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:27:47.699Z",
+    "last_updated": "2026-08-29T15:16:50.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of open-source, affordable, less-known, or visionary robotics projects.",
@@ -1953,7 +1953,7 @@
       "open_issues": 7,
       "owner": "mjyc",
       "repo": "awesome-robotics-projects",
-      "stars": 1740,
+      "stars": 1741,
       "topics": [
         "awesome",
         "projects",

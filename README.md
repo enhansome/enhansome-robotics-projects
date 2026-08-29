@@ -2,12 +2,12 @@
 
 A list of open-source, affordable, less-known, or visionary robotics projects ... aaand robotics tooling companies I find interesting.
 
-* [LeRobot](https://github.com/huggingface/lerobot/tree/main) ⭐ 27,026 | 🐛 833 | 🌐 Python | 📅 2026-08-29 - State-of-the-art AI for real-world robotics
+* [LeRobot](https://github.com/huggingface/lerobot/tree/main) ⭐ 27,039 | 🐛 833 | 🌐 Python | 📅 2026-08-29 - State-of-the-art AI for real-world robotics
 * [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,613 | 🐛 17 | 🌐 Prolog | 📅 2026-08-13 - Open-source 6-wheel rover based on the rovers on Mars
-* [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) ⭐ 3,586 | 🐛 24 | 🌐 Python | 📅 2026-01-31 - Making a mini version of the BDX droid. <https://discord.gg/UtJZsgfQGe>
+* [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) ⭐ 3,606 | 🐛 24 | 🌐 Python | 📅 2026-01-31 - Making a mini version of the BDX droid. <https://discord.gg/UtJZsgfQGe>
 * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) ⭐ 2,553 | 🐛 11 | 📅 2024-07-08 - Open-source quadruped robot
 * [CHAMP](https://github.com/chvmp/champ) ⭐ 2,307 | 🐛 54 | 🌐 C++ | 📅 2024-07-04 - 𓃡 CHAMP Quadruped Controller ROS Package
-* [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) ⭐ 1,943 | 🐛 47 | 🌐 C++ | 📅 2022-03-01 - Open Source 3D Printed Robotic Arm for educational purposes
+* [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) ⭐ 1,944 | 🐛 47 | 🌐 C++ | 📅 2022-03-01 - Open Source 3D Printed Robotic Arm for educational purposes
 * [BetaBot](https://github.com/4ndreas/BetaBots-Robot-Arm-Project) ⭐ 388 | 🐛 8 | 🌐 HTML | 📅 2021-07-22 - 3d printable Robot arm
 * [K-Bot](https://github.com/kscalelabs/kbot) ⭐ 386 | 🐛 1 | 📅 2025-11-07 - The K-Scale Robot
 * [BiDexHand](https://github.com/wengmister/BiDexHand) ⭐ 249 | 🐛 1 | 🌐 Python | 📅 2025-11-23 - BiDexHand: Open-Source 16-DoF Biomimetic Dexterous Hand
@@ -74,16 +74,16 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 
 ### Autonomous Driving
 
-* [commaai/openpilot](https://github.com/commaai/openpilot) ⭐ 63,527 | 🐛 130 | 🌐 Python | 📅 2026-08-29 - openpilot is an open source driver assistance system.
-* [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) ⭐ 26,807 | 🐛 1,045 | 🌐 C++ | 📅 2026-04-16 - An open autonomous driving platform
-* [autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe) ⭐ 1,743 | 🐛 485 | 🌐 C++ | 📅 2026-08-28 - Open-source software for self-driving vehicles
+* [commaai/openpilot](https://github.com/commaai/openpilot) ⭐ 63,529 | 🐛 134 | 🌐 Python | 📅 2026-08-29 - openpilot is an open source driver assistance system.
+* [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) ⭐ 26,809 | 🐛 1,045 | 🌐 C++ | 📅 2026-04-16 - An open autonomous driving platform
+* [autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe) ⭐ 1,743 | 🐛 485 | 🌐 C++ | 📅 2026-08-29 - Open-source software for self-driving vehicles
 
 ### ML & Vision
 
-* [openMVG/openMVG](https://github.com/openMVG/openMVG/) ⭐ 6,544 | 🐛 312 | 🌐 C++ | 📅 2025-12-17 - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
-* [borglab/gtsam](https://github.com/borglab/gtsam) ⭐ 3,658 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-28 - Georgia Tech Smoothing and Mapping Library
+* [openMVG/openMVG](https://github.com/openMVG/openMVG/) ⭐ 6,545 | 🐛 312 | 🌐 C++ | 📅 2025-12-17 - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+* [borglab/gtsam](https://github.com/borglab/gtsam) ⭐ 3,659 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-08-28 - Georgia Tech Smoothing and Mapping Library
 * [facebookresearch/theseus](https://github.com/facebookresearch/theseus) ⭐ 2,055 | 🐛 83 | 🌐 Python | 📅 2025-01-16 - A library for differentiable nonlinear optimization
-* [CRISP](https://github.com/mjyc/awesome-robotics-projects) ⭐ 1,740 | 🐛 7 | 📅 2026-02-13 - Compliant ROS2 Controllers for Learning-Based Manipulation Policies
+* [CRISP](https://github.com/mjyc/awesome-robotics-projects) ⭐ 1,741 | 🐛 7 | 📅 2026-02-13 - Compliant ROS2 Controllers for Learning-Based Manipulation Policies
 * [any4lerobot](https://github.com/Tavish9/any4lerobot) ⭐ 1,142 | 🐛 4 | 🌐 Python | 📅 2026-08-17 - A collection of utilities and tools for LeRobot
 * [nano-pgo](https://github.com/gisbi-kim/nano-pgo/tree/main) ⭐ 299 | 🐛 2 | 🌐 Python | 📅 2024-11-06 - For an education purpose, from-scratch, single-file, python-only pose-graph optimization implementation
 * [KFCore](https://github.com/jnz/KFCore) ⭐ 169 | 🐛 0 | 🌐 C | 📅 2026-07-29 - A lightweight, high-performance Kalman Filter library in C, C++, and MATLAB
@@ -118,11 +118,11 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 
 that are physically accurate, photo realistic, or roboticist friendly.
 
-* [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) ⭐ 9,637 | 🐛 3,487 | 🌐 C++ | 📅 2026-08-28 - An Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
+* [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) ⭐ 9,640 | 🐛 3,487 | 🌐 C++ | 📅 2026-08-28 - An Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 * [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,568 | 🐛 56 | 🌐 C# | 📅 2024-11-26 - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity
-* [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) ⭐ 2,248 | 🐛 97 | 🌐 Jupyter Notebook | 📅 2025-03-15 - Benchmarking Knowledge Transfer in Lifelong Robot Learning
-* [OmniGibson](https://github.com/StanfordVL/OmniGibson) ⭐ 1,668 | 🐛 308 | 🌐 Python | 📅 2026-08-28 - A platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine
-* [MetaDrive](https://github.com/metadriverse/metadrive/) ⭐ 1,235 | 🐛 102 | 🌐 Python | 📅 2025-08-15 -  Open-source Driving Simulator for AI and Autonomy Research
+* [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) ⭐ 2,250 | 🐛 97 | 🌐 Jupyter Notebook | 📅 2025-03-15 - Benchmarking Knowledge Transfer in Lifelong Robot Learning
+* [OmniGibson](https://github.com/StanfordVL/OmniGibson) ⭐ 1,669 | 🐛 308 | 🌐 Python | 📅 2026-08-28 - A platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine
+* [MetaDrive](https://github.com/metadriverse/metadrive/) ⭐ 1,236 | 🐛 102 | 🌐 Python | 📅 2025-08-15 -  Open-source Driving Simulator for AI and Autonomy Research
 * [SimplerEnv](https://github.com/simpler-env/SimplerEnv) ⭐ 1,150 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2025-12-20 - Simulated Manipulation Policy Evaluation Environments for Real Robot Setups
 * [Project dave](https://github.com/Field-Robotics-Lab/dave/wiki) ⭐ 297 | 🐛 36 | 🌐 C++ | 📅 2024-08-19 - A simulation environment to support the rapid testing and evaluation of underwater robotic solutions
 * [ZeroSimROSUnity](https://github.com/fsstudio-team/ZeroSimROSUnity) ⭐ 193 | 🐛 15 | 🌐 C# | 📅 2022-05-09 - Robotic simulation in Unity with ROS integration
@@ -240,8 +240,8 @@ but not robotics-specific
 
 ## Related Awesome Lists
 
-* [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 6,986 | 🐛 38 | 📅 2024-09-22 (Kiloreux)
-* [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling) ⭐ 3,885 | 🐛 13 | 📅 2023-11-20
+* [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 6,989 | 🐛 38 | 📅 2024-09-22 (Kiloreux)
+* [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling) ⭐ 3,886 | 🐛 13 | 📅 2023-11-20
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,027 | 🐛 17 | 🌐 Python | 📅 2026-08-25
 * [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2) ⚠️ Archived
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics) ⭐ 1,480 | 🐛 8 | 📅 2024-01-10 (ahundt)
