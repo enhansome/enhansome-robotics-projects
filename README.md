@@ -2,11 +2,11 @@
 
 A list of open-source, affordable, less-known, or visionary robotics projects ... aaand robotics tooling companies I find interesting.
 
-* [LeRobot](https://github.com/huggingface/lerobot/tree/main) ⭐ 27,963 | 🐛 988 | 🌐 Python | 📅 2026-10-06 - State-of-the-art AI for real-world robotics
-* [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,684 | 🐛 17 | 🌐 HTML | 📅 2026-09-03 - Open-source 6-wheel rover based on the rovers on Mars
-* [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) ⭐ 4,205 | 🐛 31 | 🌐 Python | 📅 2026-01-31 - Making a mini version of the BDX droid. <https://discord.gg/UtJZsgfQGe>
+* [LeRobot](https://github.com/huggingface/lerobot/tree/main) ⭐ 27,966 | 🐛 984 | 🌐 Python | 📅 2026-10-06 - State-of-the-art AI for real-world robotics
+* [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,685 | 🐛 17 | 🌐 HTML | 📅 2026-09-03 - Open-source 6-wheel rover based on the rovers on Mars
+* [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) ⭐ 4,208 | 🐛 31 | 🌐 Python | 📅 2026-01-31 - Making a mini version of the BDX droid. <https://discord.gg/UtJZsgfQGe>
 * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) ⭐ 2,561 | 🐛 11 | 📅 2024-07-08 - Open-source quadruped robot
-* [CHAMP](https://github.com/chvmp/champ) ⭐ 2,323 | 🐛 54 | 🌐 C++ | 📅 2024-07-04 - 𓃡 CHAMP Quadruped Controller ROS Package
+* [CHAMP](https://github.com/chvmp/champ) ⭐ 2,324 | 🐛 54 | 🌐 C++ | 📅 2024-07-04 - 𓃡 CHAMP Quadruped Controller ROS Package
 * [BCN3D](https://github.com/BCN3D/BCN3D-Moveo) ⭐ 1,989 | 🐛 47 | 🌐 C++ | 📅 2022-03-01 - Open Source 3D Printed Robotic Arm for educational purposes
 * [K-Bot](https://github.com/kscalelabs/kbot) ⭐ 395 | 🐛 2 | 📅 2025-11-07 - The K-Scale Robot
 * [BetaBot](https://github.com/4ndreas/BetaBots-Robot-Arm-Project) ⭐ 393 | 🐛 8 | 🌐 HTML | 📅 2021-07-22 - 3d printable Robot arm
@@ -63,20 +63,20 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 
 ### Robots
 
-* [boston-dynamics/spot-sdk](https://github.com/boston-dynamics/spot-sdk) ⭐ 2,502 | 🐛 106 | 🌐 Python | 📅 2026-09-10 - Spot SDK
+* [boston-dynamics/spot-sdk](https://github.com/boston-dynamics/spot-sdk) ⭐ 2,501 | 🐛 106 | 🌐 Python | 📅 2026-09-10 - Spot SDK
 * [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) ⚠️ Archived PyRobot: An Open Source Robotics Research Platform
-* [copper-project/copper-rs](https://github.com/copper-project/copper-rs) ⭐ 1,518 | 🐛 28 | 🌐 Rust | 📅 2026-10-05 - Robot SDK in Rust (deterministic and high performance)
+* [copper-project/copper-rs](https://github.com/copper-project/copper-rs) ⭐ 1,519 | 🐛 28 | 🌐 Rust | 📅 2026-10-06 - Robot SDK in Rust (deterministic and high performance)
 * [unitreerobotics/unitree\_sdk2](https://github.com/unitreerobotics/unitree_sdk2) ⭐ 1,388 | 🐛 14 | 🌐 C++ | 📅 2026-09-21 - Unitree robot sdk version 2
 * [facebookresearch/home-robot](https://github.com/facebookresearch/home-robot) ⭐ 1,242 | 🐛 54 | 🌐 Python | 📅 2024-06-08 - Mobile manipulation research tools for roboticists
-* Anki Cozmo [Python SDK](https://github.com/anki/cozmo-python-sdk) ⭐ 726 | 🐛 15 | 🌐 Python | 📅 2022-11-26, [C# SDK](https://github.com/anki/cozmo-csharp-sdk) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2018-12-04, and [PyCozmo](https://github.com/zayfod/pycozmo) ⭐ 236 | 🐛 25 | 🌐 Python | 📅 2022-08-03
+* Anki Cozmo [Python SDK](https://github.com/anki/cozmo-python-sdk) ⭐ 726 | 🐛 15 | 🌐 Python | 📅 2022-11-26, [C# SDK](https://github.com/anki/cozmo-csharp-sdk) ⭐ 18 | 🐛 1 | 🌐 C# | 📅 2018-12-04, and [PyCozmo](https://github.com/zayfod/pycozmo) ⭐ 237 | 🐛 25 | 🌐 Python | 📅 2022-08-03
 * [robotemi/sdk](https://github.com/robotemi/sdk) ⭐ 255 | 🐛 145 | 🌐 Kotlin | 📅 2026-09-22 - temi SDK
 * [resibots/minitaur\_sdk](https://github.com/resibots/minitaur_sdk) ⭐ 9 | 🐛 0 | 🌐 C++ | 📅 2019-04-12 - Minitaur SDK extension
 
 ### Autonomous Driving
 
 * [commaai/openpilot](https://github.com/commaai/openpilot) ⭐ 63,834 | 🐛 136 | 🌐 Python | 📅 2026-10-06 - openpilot is an open source driver assistance system.
-* [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) ⭐ 26,853 | 🐛 1,047 | 🌐 C++ | 📅 2026-04-16 - An open autonomous driving platform
-* [autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe) ⭐ 1,777 | 🐛 481 | 🌐 C++ | 📅 2026-10-06 - Open-source software for self-driving vehicles
+* [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) ⭐ 26,852 | 🐛 1,047 | 🌐 C++ | 📅 2026-04-16 - An open autonomous driving platform
+* [autowarefoundation/autoware.universe](https://github.com/autowarefoundation/autoware.universe) ⭐ 1,777 | 🐛 483 | 🌐 C++ | 📅 2026-10-06 - Open-source software for self-driving vehicles
 
 ### ML & Vision
 
@@ -90,7 +90,7 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 
 ## Command Line Tools
 
-* [ROSA](https://github.com/nasa-jpl/rosa) ⭐ 1,652 | 🐛 5 | 🌐 Python | 📅 2026-03-17 - The ROS Agent
+* [ROSA](https://github.com/nasa-jpl/rosa) ⭐ 1,653 | 🐛 5 | 🌐 Python | 📅 2026-03-17 - The ROS Agent
 * [TermViz - ROS visualization on the terminal](https://github.com/carzum/termviz) ⭐ 413 | 🐛 13 | 🌐 Rust | 📅 2026-05-12
 * [ros command](https://github.com/MetroRobots/ros_command) ⭐ 78 | 🐛 7 | 🌐 Python | 📅 2026-10-05 - Unifying the ROS command line tools
 * [linux\_isolate\_process](https://github.com/adityapande-1995/linux_isolate_process) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2024-01-31
@@ -118,10 +118,10 @@ A list of open-source, affordable, less-known, or visionary robotics projects ..
 
 that are physically accurate, photo realistic, or roboticist friendly.
 
-* [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) ⭐ 9,729 | 🐛 3,514 | 🌐 C++ | 📅 2026-10-02 - An Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
+* [Open 3D Engine (O3DE)](https://github.com/o3de/o3de) ⭐ 9,730 | 🐛 3,513 | 🌐 C++ | 📅 2026-10-02 - An Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 * [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,588 | 🐛 56 | 🌐 C# | 📅 2026-09-22 - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity
-* [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) ⭐ 2,384 | 🐛 105 | 🌐 Jupyter Notebook | 📅 2025-03-15 - Benchmarking Knowledge Transfer in Lifelong Robot Learning
-* [OmniGibson](https://github.com/StanfordVL/OmniGibson) ⭐ 1,738 | 🐛 310 | 🌐 Python | 📅 2026-10-06 - A platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine
+* [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) ⭐ 2,386 | 🐛 105 | 🌐 Jupyter Notebook | 📅 2025-03-15 - Benchmarking Knowledge Transfer in Lifelong Robot Learning
+* [OmniGibson](https://github.com/StanfordVL/OmniGibson) ⭐ 1,737 | 🐛 310 | 🌐 Python | 📅 2026-10-06 - A platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine
 * [MetaDrive](https://github.com/metadriverse/metadrive/) ⭐ 1,252 | 🐛 103 | 🌐 Python | 📅 2025-08-15 -  Open-source Driving Simulator for AI and Autonomy Research
 * [SimplerEnv](https://github.com/simpler-env/SimplerEnv) ⭐ 1,174 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2026-09-30 - Simulated Manipulation Policy Evaluation Environments for Real Robot Setups
 * [Project dave](https://github.com/Field-Robotics-Lab/dave/wiki) ⭐ 298 | 🐛 36 | 🌐 C++ | 📅 2024-08-19 - A simulation environment to support the rapid testing and evaluation of underwater robotic solutions
@@ -241,7 +241,7 @@ but not robotics-specific
 ## Related Awesome Lists
 
 * [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,218 | 🐛 43 | 📅 2024-09-22 (Kiloreux)
-* [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling) ⭐ 3,898 | 🐛 13 | 📅 2023-11-20
+* [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling) ⭐ 3,899 | 🐛 13 | 📅 2023-11-20
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,071 | 🐛 28 | 🌐 Python | 📅 2026-09-18
 * [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2) ⚠️ Archived
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics) ⭐ 1,502 | 🐛 8 | 📅 2024-01-10 (ahundt)
