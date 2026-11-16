@@ -15,11 +15,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T03:31:00Z",
-            "open_issues": 971,
+            "last_commit": "2026-11-16T18:05:18Z",
+            "open_issues": 975,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28893,
+            "stars": 28913,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -40,7 +40,7 @@
             "open_issues": 17,
             "owner": "nasa-jpl",
             "repo": "open-source-rover",
-            "stars": 9779,
+            "stars": 9783,
             "topics": [
               "diy",
               "hardware",
@@ -69,7 +69,7 @@
             "open_issues": 32,
             "owner": "apirrone",
             "repo": "Open_Duck_Mini",
-            "stars": 4731,
+            "stars": 4743,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -119,7 +119,7 @@
             "open_issues": 54,
             "owner": "chvmp",
             "repo": "champ",
-            "stars": 2339,
+            "stars": 2340,
             "topics": [
               "gazebo",
               "gazebo-ros",
@@ -151,7 +151,7 @@
             "open_issues": 47,
             "owner": "BCN3D",
             "repo": "BCN3D-Moveo",
-            "stars": 2024,
+            "stars": 2025,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -377,7 +377,7 @@
                 "open_issues": 55,
                 "owner": "facebookresearch",
                 "repo": "pyrobot",
-                "stars": 2303,
+                "stars": 2302,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
@@ -394,8 +394,8 @@
                 "id": 290790298,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T13:49:45Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-16T20:06:03Z",
+                "open_issues": 29,
                 "owner": "copper-project",
                 "repo": "copper-rs",
                 "stars": 1553,
@@ -425,7 +425,7 @@
                 "open_issues": 15,
                 "owner": "unitreerobotics",
                 "repo": "unitree_sdk2",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
@@ -533,11 +533,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-15T17:20:57Z",
-                "open_issues": 177,
+                "last_commit": "2026-11-16T20:15:21Z",
+                "open_issues": 129,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 64146,
+                "stars": 64152,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -562,7 +562,7 @@
                 "open_issues": 1050,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26907,
+                "stars": 26909,
                 "topics": [
                   "apollo",
                   "autonomous-driving",
@@ -585,8 +585,8 @@
                 "id": 429651616,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T11:13:00Z",
-                "open_issues": 478,
+                "last_commit": "2026-11-16T11:13:34Z",
+                "open_issues": 485,
                 "owner": "autowarefoundation",
                 "repo": "autoware_universe",
                 "stars": 1816,
@@ -627,7 +627,7 @@
                 "open_issues": 314,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6600,
+                "stars": 6602,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -654,11 +654,11 @@
                 "id": 86362856,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T05:12:34Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-16T13:16:00Z",
+                "open_issues": 15,
                 "owner": "borglab",
                 "repo": "gtsam",
-                "stars": 3796,
+                "stars": 3799,
                 "topics": [
                   "estimation",
                   "perception",
@@ -815,7 +815,7 @@
             "open_issues": 6,
             "owner": "nasa-jpl",
             "repo": "rosa",
-            "stars": 1688,
+            "stars": 1689,
             "topics": [
               "agents",
               "ai",
@@ -936,7 +936,7 @@
             "open_issues": 19,
             "owner": "fzi-forschungszentrum-informatik",
             "repo": "Lanelet2",
-            "stars": 974,
+            "stars": 975,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -1085,7 +1085,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-08T22:48:56Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "iblnkn",
             "repo": "rosetta",
             "stars": 102,
@@ -1157,11 +1157,11 @@
             "id": 354743391,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T13:37:42Z",
+            "last_commit": "2026-11-16T14:54:41Z",
             "open_issues": 3523,
             "owner": "o3de",
             "repo": "o3de",
-            "stars": 9885,
+            "stars": 9884,
             "topics": [
               "3d-graphics",
               "3d-graphics-engine",
@@ -1189,7 +1189,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2616,
+            "stars": 2617,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -1231,7 +1231,7 @@
             "open_issues": 108,
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2543,
+            "stars": 2550,
             "topics": [
               "benchmark",
               "imitation-learning",
@@ -1255,7 +1255,7 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T06:46:19Z",
+            "last_commit": "2026-11-16T20:12:22Z",
             "open_issues": 319,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
@@ -1285,7 +1285,7 @@
             "open_issues": 103,
             "owner": "metadriverse",
             "repo": "metadrive",
-            "stars": 1280,
+            "stars": 1281,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -1454,7 +1454,7 @@
             "open_issues": 54,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7309,
+            "stars": 7314,
             "topics": [
               "robotics"
             ]
@@ -1474,7 +1474,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2023-11-20T07:13:29Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
             "stars": 3923,
@@ -1515,11 +1515,11 @@
             "id": 56404753,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-09T18:27:21Z",
+            "last_commit": "2026-11-16T18:05:42Z",
             "open_issues": 10,
             "owner": "jslee02",
             "repo": "awesome-robotics-libraries",
-            "stars": 3112,
+            "stars": 3113,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1553,7 +1553,7 @@
             "open_issues": 10,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1525,
+            "stars": 1527,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1592,7 +1592,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-05-31T20:20:18Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "msadowski",
             "repo": "awesome-weekly-robotics",
             "stars": 1071,
@@ -1891,7 +1891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T17:22:25.045Z",
+    "last_updated": "2026-11-16T20:39:31.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of open-source, affordable, less-known, or visionary robotics projects.",
