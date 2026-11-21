@@ -15,11 +15,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T17:48:35Z",
-            "open_issues": 986,
+            "last_commit": "2026-11-21T15:09:19Z",
+            "open_issues": 992,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 29001,
+            "stars": 29015,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -40,7 +40,7 @@
             "open_issues": 17,
             "owner": "nasa-jpl",
             "repo": "open-source-rover",
-            "stars": 9794,
+            "stars": 9796,
             "topics": [
               "diy",
               "hardware",
@@ -69,7 +69,7 @@
             "open_issues": 32,
             "owner": "apirrone",
             "repo": "Open_Duck_Mini",
-            "stars": 4762,
+            "stars": 4766,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -221,27 +221,6 @@
         },
         {
           "node_type": "item",
-          "title": "Robotics Middleware Framework",
-          "description": "Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Demos to showcase the capabilities of RMF",
-            "homepage": null,
-            "id": 237959914,
-            "language": "C++",
-            "license": "Apache-2.0",
-            "last_commit": "2021-07-22T07:14:57Z",
-            "open_issues": 2,
-            "owner": "osrf",
-            "repo": "rmf_demos",
-            "stars": 68,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:13:32.871Z"
-        },
-        {
-          "node_type": "item",
           "title": "Maker's Pet",
           "description": "Extremely low-cost open-source 3D-printed Arduino/ROS2 home pet robot",
           "children": [],
@@ -256,7 +235,7 @@
             "open_issues": 0,
             "owner": "makerspet",
             "repo": "makerspet_loki",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "3d-printing",
               "3mf",
@@ -278,6 +257,27 @@
               "stem",
               "stl-files"
             ]
+          },
+          "first_seen": "2026-08-28T21:13:32.871Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Robotics Middleware Framework",
+          "description": "Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Demos to showcase the capabilities of RMF",
+            "homepage": null,
+            "id": 237959914,
+            "language": "C++",
+            "license": "Apache-2.0",
+            "last_commit": "2021-07-22T07:14:57Z",
+            "open_issues": 2,
+            "owner": "osrf",
+            "repo": "rmf_demos",
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -394,8 +394,8 @@
                 "id": 290790298,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T17:25:09Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-21T17:37:15Z",
+                "open_issues": 24,
                 "owner": "copper-project",
                 "repo": "copper-rs",
                 "stars": 1551,
@@ -425,7 +425,7 @@
                 "open_issues": 15,
                 "owner": "unitreerobotics",
                 "repo": "unitree_sdk2",
-                "stars": 1454,
+                "stars": 1456,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:13:32.871Z"
@@ -533,11 +533,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-20T17:47:07Z",
-                "open_issues": 140,
+                "last_commit": "2026-11-21T10:05:33Z",
+                "open_issues": 142,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 64187,
+                "stars": 64193,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -562,7 +562,7 @@
                 "open_issues": 1050,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26915,
+                "stars": 26916,
                 "topics": [
                   "apollo",
                   "autonomous-driving",
@@ -589,7 +589,7 @@
                 "open_issues": 493,
                 "owner": "autowarefoundation",
                 "repo": "autoware_universe",
-                "stars": 1819,
+                "stars": 1820,
                 "topics": [
                   "3d-map",
                   "autonomous-driving",
@@ -654,11 +654,11 @@
                 "id": 86362856,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T13:06:28Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-21T15:58:06Z",
+                "open_issues": 16,
                 "owner": "borglab",
                 "repo": "gtsam",
-                "stars": 3801,
+                "stars": 3803,
                 "topics": [
                   "estimation",
                   "perception",
@@ -815,7 +815,7 @@
             "open_issues": 6,
             "owner": "nasa-jpl",
             "repo": "rosa",
-            "stars": 1692,
+            "stars": 1693,
             "topics": [
               "agents",
               "ai",
@@ -957,7 +957,7 @@
             "open_issues": 5,
             "owner": "OpenLegged",
             "repo": "URDF-Studio",
-            "stars": 502,
+            "stars": 503,
             "topics": [
               "robot",
               "robotics",
@@ -1158,10 +1158,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T17:52:27Z",
-            "open_issues": 3519,
+            "open_issues": 3527,
             "owner": "o3de",
             "repo": "o3de",
-            "stars": 9895,
+            "stars": 9896,
             "topics": [
               "3d-graphics",
               "3d-graphics-engine",
@@ -1189,7 +1189,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2617,
+            "stars": 2616,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -1231,7 +1231,7 @@
             "open_issues": 108,
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2559,
+            "stars": 2562,
             "topics": [
               "benchmark",
               "imitation-learning",
@@ -1255,11 +1255,11 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T08:30:31Z",
+            "last_commit": "2026-11-21T08:04:11Z",
             "open_issues": 313,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
-            "stars": 1801,
+            "stars": 1804,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -1306,7 +1306,7 @@
             "open_issues": 34,
             "owner": "simpler-env",
             "repo": "SimplerEnv",
-            "stars": 1186,
+            "stars": 1187,
             "topics": [
               "computer-vision",
               "embodied-ai",
@@ -1454,7 +1454,7 @@
             "open_issues": 54,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7316,
+            "stars": 7315,
             "topics": [
               "robotics"
             ]
@@ -1477,7 +1477,7 @@
             "open_issues": 14,
             "owner": "Ly0n",
             "repo": "awesome-robotic-tooling",
-            "stars": 3923,
+            "stars": 3925,
             "topics": [
               "aerospace",
               "artificial-intelligence",
@@ -1891,7 +1891,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:46:17.601Z",
+    "last_updated": "2026-11-21T17:44:51.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of open-source, affordable, less-known, or visionary robotics projects.",
