@@ -15,11 +15,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T15:53:06Z",
+            "last_commit": "2026-11-28T18:02:07Z",
             "open_issues": 1054,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 29124,
+            "stars": 29137,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -69,7 +69,7 @@
             "open_issues": 32,
             "owner": "apirrone",
             "repo": "Open_Duck_Mini",
-            "stars": 4800,
+            "stars": 4804,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -151,7 +151,7 @@
             "open_issues": 48,
             "owner": "BCN3D",
             "repo": "BCN3D-Moveo",
-            "stars": 2032,
+            "stars": 2033,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -262,6 +262,36 @@
         },
         {
           "node_type": "item",
+          "title": "RoboPrime",
+          "description": "Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🤖 Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip",
+            "homepage": null,
+            "id": 95972758,
+            "language": "Arduino",
+            "license": "GPL-3.0",
+            "last_commit": "2017-10-19T16:04:12Z",
+            "open_issues": 0,
+            "owner": "simonepri",
+            "repo": "roboprime",
+            "stars": 68,
+            "topics": [
+              "3d-printing",
+              "arduino",
+              "atmega328p",
+              "electronics",
+              "firmware",
+              "humanoid",
+              "humanoid-robot",
+              "robotics"
+            ]
+          },
+          "first_seen": "2026-08-28T21:13:32.871Z"
+        },
+        {
+          "node_type": "item",
           "title": "Robotics Middleware Framework",
           "description": "Task queuing, conflict-free resource scheduling, utilities to help create robot fleet adapters, and so on",
           "children": [],
@@ -278,36 +308,6 @@
             "repo": "rmf_demos",
             "stars": 68,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:13:32.871Z"
-        },
-        {
-          "node_type": "item",
-          "title": "RoboPrime",
-          "description": "Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🤖 Full featured 21 DOF 3D Printed Humanoid Robot based on ATmega328P chip",
-            "homepage": null,
-            "id": 95972758,
-            "language": "Arduino",
-            "license": "GPL-3.0",
-            "last_commit": "2017-10-19T16:04:12Z",
-            "open_issues": 0,
-            "owner": "simonepri",
-            "repo": "roboprime",
-            "stars": 67,
-            "topics": [
-              "3d-printing",
-              "arduino",
-              "atmega328p",
-              "electronics",
-              "firmware",
-              "humanoid",
-              "humanoid-robot",
-              "robotics"
-            ]
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
         },
@@ -394,11 +394,11 @@
                 "id": 290790298,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-27T17:53:55Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-28T18:07:07Z",
+                "open_issues": 41,
                 "owner": "copper-project",
                 "repo": "copper-rs",
-                "stars": 1556,
+                "stars": 1558,
                 "topics": [
                   "operating-system",
                   "physical-ai",
@@ -533,11 +533,11 @@
                 "id": 74627617,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-27T09:07:07Z",
-                "open_issues": 153,
+                "last_commit": "2026-11-28T18:17:22Z",
+                "open_issues": 162,
                 "owner": "commaai",
                 "repo": "openpilot",
-                "stars": 64246,
+                "stars": 64254,
                 "topics": [
                   "advanced-driver-assistance-systems",
                   "driver-assistance-systems",
@@ -562,7 +562,7 @@
                 "open_issues": 1050,
                 "owner": "ApolloAuto",
                 "repo": "apollo",
-                "stars": 26919,
+                "stars": 26917,
                 "topics": [
                   "apollo",
                   "autonomous-driving",
@@ -585,7 +585,7 @@
                 "id": 429651616,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-27T08:11:07Z",
+                "last_commit": "2026-11-28T05:46:13Z",
                 "open_issues": 504,
                 "owner": "autowarefoundation",
                 "repo": "autoware_universe",
@@ -624,10 +624,10 @@
                 "language": "C++",
                 "license": "MPL-2.0",
                 "last_commit": "2026-11-07T01:15:50Z",
-                "open_issues": 330,
+                "open_issues": 333,
                 "owner": "openMVG",
                 "repo": "openMVG",
-                "stars": 6609,
+                "stars": 6612,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -654,11 +654,11 @@
                 "id": 86362856,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-27T19:21:54Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-28T08:42:43Z",
+                "open_issues": 21,
                 "owner": "borglab",
                 "repo": "gtsam",
-                "stars": 3808,
+                "stars": 3809,
                 "topics": [
                   "estimation",
                   "perception",
@@ -812,10 +812,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T22:46:43Z",
-            "open_issues": 7,
+            "open_issues": 9,
             "owner": "nasa-jpl",
             "repo": "rosa",
-            "stars": 1696,
+            "stars": 1697,
             "topics": [
               "agents",
               "ai",
@@ -1171,7 +1171,7 @@
             "open_issues": 3516,
             "owner": "o3de",
             "repo": "o3de",
-            "stars": 9937,
+            "stars": 9945,
             "topics": [
               "3d-graphics",
               "3d-graphics-engine",
@@ -1199,7 +1199,7 @@
             "open_issues": 56,
             "owner": "Unity-Technologies",
             "repo": "Unity-Robotics-Hub",
-            "stars": 2618,
+            "stars": 2619,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -1241,7 +1241,7 @@
             "open_issues": 108,
             "owner": "Lifelong-Robot-Learning",
             "repo": "LIBERO",
-            "stars": 2582,
+            "stars": 2583,
             "topics": [
               "benchmark",
               "imitation-learning",
@@ -1265,7 +1265,7 @@
             "id": 439439857,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T22:40:04Z",
+            "last_commit": "2026-11-28T04:20:19Z",
             "open_issues": 315,
             "owner": "StanfordVL",
             "repo": "BEHAVIOR-1K",
@@ -1295,7 +1295,7 @@
             "open_issues": 103,
             "owner": "metadriverse",
             "repo": "metadrive",
-            "stars": 1290,
+            "stars": 1291,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:32.871Z"
@@ -1464,7 +1464,7 @@
             "open_issues": 54,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7330,
+            "stars": 7331,
             "topics": [
               "robotics"
             ]
@@ -1563,7 +1563,7 @@
             "open_issues": 11,
             "owner": "ahundt",
             "repo": "awesome-robotics",
-            "stars": 1531,
+            "stars": 1532,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1605,7 +1605,7 @@
             "open_issues": 15,
             "owner": "msadowski",
             "repo": "awesome-weekly-robotics",
-            "stars": 1090,
+            "stars": 1092,
             "topics": [
               "3d-printing",
               "automation",
@@ -1901,7 +1901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T19:36:39.815Z",
+    "last_updated": "2026-11-28T18:23:43.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of open-source, affordable, less-known, or visionary robotics projects.",
